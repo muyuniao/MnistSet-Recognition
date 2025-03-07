@@ -2,7 +2,6 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.13.1-red)
 ![Python](https://img.shields.io/badge/Python-3.12.7-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 一个基于 PyTorch 实现的简单全连接神经网络，用于 MNIST 手写数字识别任务。
 
